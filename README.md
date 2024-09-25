@@ -34,7 +34,7 @@ Welcome to the **Clinic Care** project! This repository provides a professional 
 
 1. **Clone the Repo:** 
    ```bash
-   git clone https://github.com/yourusername/clinic-care.git
+   git clone https://github.com/Talkonlytech/clinic-care.git
    ```
 2. **Navigate to the Project Folder:**
    ```bash
